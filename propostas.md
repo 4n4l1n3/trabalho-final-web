@@ -1,7 +1,6 @@
 # Proposta 01
 
-## Título_da_proposta:
-*Estágio*
+## *Estágio*
 
 ### Descrição:
 *O sistema em questão tem por objetivo auxiliar os alunos do ifnmg campus salinas no processo de realização do estágio obrigatório.*
@@ -21,11 +20,10 @@
 
 # Proposta 02
 
-## Título_da_proposta
-*Guia eletrônico - comparador de preços.* 
+## *Guia_eletrônico/comparador_de _preços.* 
 
 ### Descrição
-*O sistema em questão tem por objetivo auxiliar as pessoas que pretendem adiquirir um novo aparelho eletrônico de forma mais rápida e eficiente.*
+*O sistema em questão tem por objetivo auxiliar as pessoas que pretendem adquirir um novo aparelho eletrônico de forma mais rápida e eficiente.*
 
 ### Problema a ser solucionado
 *O problema a ser solucionado se dá pelo fato de que o mercado de vendas de aparelhos eletrônicos cresce espontaneamente com o passar dos anos e com as vastas opções disponíveis no mercado, o consumidor gasta muito tempo pesquisando as melhores opções tanto em relação ao preço quanto as configurações do aparelho.*
@@ -39,8 +37,7 @@
 
 # Proposta 03
 
-## Título_da_proposta
-*Formatação automática*
+## *Formatação_automática*
 
 ### Descrição
 *O sistema em questão tem por objetivo auxiliar as pessoas que precisam formatar textos acadêmicos mas não conhecem ou não sabem como aplicar às normas da ABNT.*

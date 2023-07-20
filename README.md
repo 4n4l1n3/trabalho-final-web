@@ -12,3 +12,7 @@ e o link para o GitHub, de cada um dos colaboradores do projeto)
 - [Ayala Clara Silva Miranda](https://github.com/acsm5)
 - [Maria Edurarda Jardim Souza](https://github.com/mejs1)
 - [Stefanny Cândida Corsino](https://github.com/stefannycorsiino)
+
+# Wireframes
+
+https://www.figma.com/file/n2w7mEPUSuaNurJxZTAZFH/Wireframes?type=design&node-id=0-1&mode=design&t=pflT2tRogKRaefRW-0 
